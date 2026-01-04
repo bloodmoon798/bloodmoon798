@@ -132,7 +132,7 @@
 <tr>
   <td align="center" width="25%">
     <picture pointer-events: none>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br><strong>Node.js</strong>
     </picture>
   </td>
